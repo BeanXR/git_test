@@ -1,1 +1,2 @@
 hello my Name is Bean.
+add more lines to try out lolz.
