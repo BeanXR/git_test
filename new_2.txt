@@ -3,3 +3,5 @@ added new lines to stage.
 edit after staging
 
 line 1 
+line 2
+line 3
